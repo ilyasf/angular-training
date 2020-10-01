@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~normalize.css";
+
+@font-face {
+  font-family: SourceSansPro-Bold;
+  src: url("assets/Source_Sans_Pro/SourceSansPro-Bold.ttf");
+}
+
+@font-face {
+  font-family: SourceSansPro-Regular;
+  src: url("assets/Source_Sans_Pro/SourceSansPro-Regular.ttf");
+}
+
+.ssp-bold {
+  font-family: SourceSansPro-Bold, Arial, monospace;
+}
+
+.ssp-regular {
+  font-family: SourceSansPro-Regular, Arial, monospace;
+}
