@@ -1,6 +1,6 @@
 # AngularTraining
 
 
-Task 1. Intro!
+Task 1. 
 https://epam-my.sharepoint.com/personal/andrey_pavlov_epam_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fandrey%5Fpavlov%5Fepam%5Fcom%2FDocuments%2FAngularMentoring%2F1%5FIntro%2Epdf&parent=%2Fpersonal%2Fandrey%5Fpavlov%5Fepam%5Fcom%2FDocuments%2FAngularMentoring&originalPath=aHR0cHM6Ly9lcGFtLW15LnNoYXJlcG9pbnQuY29tLzpiOi9wL2FuZHJleV9wYXZsb3YvRVpoaWUwaElnTnRMcXl3X095dTRJYzhCcW5CbEZDY2tfNXNfNXFsaVNRSzg0QT9ydGltZT1WMmJKc3M1bTJFZw
 
