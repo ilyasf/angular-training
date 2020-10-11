@@ -1,0 +1,12 @@
+.course-header {
+  background: #fff;
+  height: 64px;
+  line-height: 64px;
+  padding-left: 55px;
+  &-title {
+    line-height: 24px;
+    letter-spacing: 0;
+    color: #464A5A;
+    font-size: 14px;
+  }
+}

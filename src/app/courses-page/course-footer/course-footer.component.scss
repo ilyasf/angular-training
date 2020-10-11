@@ -1,0 +1,24 @@
+.courses-footer {
+  background: #fff;
+  padding: 12px 25px;
+  margin: 25px 0;
+  box-shadow: 0 1px 2px 0 rgba(29,30,38,0.10), 0 2px 10px 0 rgba(29,30,38,0.15);
+  border-radius: 6px;
+  text-align: center;
+
+  button {
+    line-height: 24px;
+    letter-spacing: 0;
+    color: #5681EE;
+    font-size: 12px;
+    text-decoration: underline;
+    background: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+
+    &:hover {
+      color: #5681AA;
+    }
+  }
+}
