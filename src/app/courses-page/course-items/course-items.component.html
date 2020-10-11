@@ -1,0 +1,3 @@
+<div class="courses-wrapper">
+  <app-course-item *ngFor="let course of courses" [item]="course" (onDeleteCourse)="onDeleteCourse($event)"></app-course-item>
+</div>

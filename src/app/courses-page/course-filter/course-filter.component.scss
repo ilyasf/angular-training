@@ -1,0 +1,35 @@
+.course-filter {
+  display: flex;
+  &-input{
+    input {
+      outline: none;
+      height: 18px;
+      width: 216px;
+      padding: 9px 12px;
+      border: 1px solid #CED0DB;
+      &::placeholder {
+        color: rgba(123, 123, 123, 0.6);
+      }
+      &:focus {
+        border: 1px solid rgba(123, 123, 123, 0.6);
+      }
+    }
+  }
+
+  &-button {
+    margin-left: 16px;
+
+    button {
+      cursor: pointer;
+      border-radius: 3px;
+      background: #67A300;
+      padding: 8px 16px;
+      border: 1px solid #67A300;
+      color: #fff;
+      &:hover {
+        background: #66A260;
+        border: 1px solid #66A260;
+      }
+    }
+  }
+}

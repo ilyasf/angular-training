@@ -1,0 +1,28 @@
+<div class="course-card">
+  <div class="course-card-data">
+    <div class="course-title">{{item.title}}</div>
+    <div class="course-description">{{item.description}}</div>
+  </div>
+  <div class="course-card-actions">
+    <div class="course-data">
+      <span class="course-duration">
+        <span class="material-icons">schedule</span>
+        <span class="course-duration-time">{{item.duration}}</span></span>
+      <span class="course-created-at">
+        <span class="material-icons">calendar_today</span>
+        <span class="course-created-at-date">{{item.createdAt}}</span>
+      </span>
+    </div>
+    <div class="course-actions">
+      <button class="course-actions-button" (click)="handleEdit(item.id)">
+        <span class="material-icons">edit</span>
+        <span>Edit</span>
+      </button>
+      <button class="course-actions-button" (click)="handleDelete(item.id)">
+        <span class="material-icons">delete</span>
+        <span>Delete</span>
+      </button>
+    </div>
+  </div>
+
+</div>

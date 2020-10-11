@@ -11,6 +11,11 @@
   src: url("assets/Source_Sans_Pro/SourceSansPro-Regular.ttf");
 }
 
+@font-face {
+  font-family: SourceSansPro-Semibold;
+  src: url("assets/Source_Sans_Pro/SourceSansPro-Semibold.ttf");
+}
+
 .ssp-bold {
   font-family: SourceSansPro-Bold, Arial, monospace;
 }
@@ -18,3 +23,8 @@
 .ssp-regular {
   font-family: SourceSansPro-Regular, Arial, monospace;
 }
+
+.ssp-semi-bold {
+  font-family: SourceSansPro-Semibold, Arial, monospace;
+}
+
